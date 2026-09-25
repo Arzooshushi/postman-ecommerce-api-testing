@@ -75,7 +75,9 @@ The login request automatically stores the returned access token in the `token` 
 - **Failed:** 0
 - **Errors:** 0
 - **Skipped:** 0
+### Collection Runner Result
 
+![Postman Collection Runner - 52 Tests Passed](collection-runner-result.png)
 ## Positive & Negative Testing
 
 Positive flows cover successful login, profile retrieval, product retrieval/search, and cart CRUD operations.
